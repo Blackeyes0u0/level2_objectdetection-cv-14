@@ -11,8 +11,8 @@
 | :-------: | ------------------------------------------------------------ | ------------------------------ |
 |김용환       | yolox, yolov5x6 실험                                         | https://github.com/ |
 |김우진       | EDA 수행, ConvNeXt-T, XL 실험, Augmentation(Multi-Scale, TTA, Albumentations) 적용       | https://github.com/    |
-|신건희       | Swin_L_Cascade R-CNN 실험, Oversampling 실험                 | https://github.com/   |
-|신중현       | Swin-T, L 기반 Cascade R-CNN, HTC 실험                       | https://github.com/    |
+|신건희       | Swin L Cascade R-CNN 실험, Oversampling 실험                 | https://github.com/   |
+|신중현       | Swin T 기반 Cascade R-CNN, Loss function 실험                       | https://github.com/    |
 |이종휘       | Centernet2, DyHead, Universenet 실험, Augmentation 실험, Ensenble(WBF) 코드 | https://github.com/    |
 
 ## Leaderboard score
